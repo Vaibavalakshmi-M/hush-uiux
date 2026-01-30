@@ -25,7 +25,7 @@ Open App → Mood Check-in → Suggested Support → Activity or Journal → Gen
 https://www.figma.com/community/file/1598723811940300209/hush
 
 ## Demo Video
-------------
+https://drive.google.com/file/d/1aYHoSj052dFlmwVjlxArbIKWtYJK-14f/view?usp=sharing
 
 ## Note
 This project is a UI/UX prototype created for the Career Carnival Hackathon 2026.
